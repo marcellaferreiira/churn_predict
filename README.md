@@ -1,6 +1,6 @@
-# Previsão de Churn
+# Predição de Churn
 
-Este repositório contém um modelo de previsão de churn desenvolvido em Python, utilizando aprendizado de máquina, para identificar clientes em risco de cancelamento de assinatura ou abandono de serviço.
+Este repositório contém um modelo de predição de churn desenvolvido em Python, utilizando aprendizado de máquina, para identificar clientes em risco de cancelamento de assinatura ou abandono de serviço.
 
 ## Descrição
 
